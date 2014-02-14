@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "NA": ""
+        "building_code": "MA"
       },
       "geometry": {
         "type": "Polygon",
@@ -77,7 +77,7 @@
     {
       "type": "Feature",
       "properties": {
-        "MA": ""
+        "building_code": "NA"
       },
       "geometry": {
         "type": "Polygon",
@@ -174,7 +174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HI": ""
+        "building_code": "HI"
       },
       "geometry": {
         "type": "Polygon",
@@ -227,7 +227,7 @@
     {
       "type": "Feature",
       "properties": {
-        "EN": ""
+        "building_code": "EN"
       },
       "geometry": {
         "type": "Polygon",
@@ -268,7 +268,7 @@
     {
       "type": "Feature",
       "properties": {
-        "EH": ""
+        "building_code": "EH"
       },
       "geometry": {
         "type": "Polygon",
