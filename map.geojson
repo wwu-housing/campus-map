@@ -4,8 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "MA",
-        "building_area": "n"
+        "code": "MA",
+        "name": "Mathes Hall",
+        "area": "n",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -78,8 +80,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "NA",
-        "building_area": "n"
+        "code": "NA",
+        "name": "Nash Hall",
+        "area": "n",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -176,8 +180,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "HG",
-        "building_area": "n"
+        "code": "HG",
+        "name": "Higginson Hall",
+        "area": "n",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -230,8 +236,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "EN",
-        "building_area": "n"
+        "code": "EN",
+        "area": "n",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -272,8 +279,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "EH",
-        "building_area": "n"
+        "code": "EH",
+        "area": "n",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -354,8 +362,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BT",
-        "building_area": "s"
+        "code": "BT",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -448,8 +457,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BQ",
-        "building_area": "s"
+        "code": "BQ",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -618,8 +628,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "HI",
-        "building_area": "r"
+        "code": "HI",
+        "area": "r",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -748,8 +759,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "RC",
-        "building_area": "r"
+        "code": "RC",
+        "area": "r",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -862,8 +874,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "RG",
-        "building_area": "r"
+        "code": "RG",
+        "area": "r",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1024,8 +1037,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "RS",
-        "building_area": "r"
+        "code": "RS",
+        "area": "r",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1122,8 +1136,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "RA",
-        "building_area": "r"
+        "code": "RA",
+        "area": "r",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1204,8 +1219,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "RO",
-        "building_area": "r"
+        "code": "RO",
+        "area": "r",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1294,8 +1310,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "RD",
-        "building_area": "r"
+        "code": "RD",
+        "area": "r",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1376,8 +1393,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "RB",
-        "building_area": "r"
+        "code": "RB",
+        "area": "r",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1530,8 +1548,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "RK",
-        "building_area": "r"
+        "code": "RK",
+        "area": "r",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1680,8 +1699,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "VC",
-        "building_area": "n"
+        "code": "VC",
+        "area": "n",
+        "buildingSection": "",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1746,8 +1767,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FC",
-        "building_area": "s"
+        "code": "FC",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1816,9 +1838,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_section": 1,
-        "building_area": "s"
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 1,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1851,9 +1874,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 2
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 2,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1886,9 +1910,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_section": 3,
-        "building_code": "FX",
-        "building_area": "s"
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 3,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1921,9 +1946,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 4
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 4,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1956,9 +1982,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 5
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 5,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1991,9 +2018,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 6
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 6,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2026,9 +2054,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 7
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 7,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2061,9 +2090,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 8
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 8,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2096,9 +2126,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 9
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 9,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2131,9 +2162,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 10
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 10,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2166,9 +2198,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 11
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 11,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2201,9 +2234,10 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "FX",
-        "building_area": "s",
-        "building_section": 12
+        "code": "FX",
+        "area": "s",
+        "buildingSection": 12,
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2236,8 +2270,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BW",
-        "building_area": "s"
+        "code": "BW",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2314,8 +2349,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BW",
-        "building_area": "s"
+        "code": "BW",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2380,8 +2416,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BW",
-        "building_area": "s"
+        "code": "BW",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2426,8 +2463,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BW",
-        "building_area": "s"
+        "code": "BW",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2504,8 +2542,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BW",
-        "building_area": "s"
+        "code": "BW",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2554,8 +2593,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BW",
-        "building_area": "s"
+        "code": "BW",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2636,8 +2676,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BW",
-        "building_area": "s"
+        "code": "BW",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2702,8 +2743,9 @@
     {
       "type": "Feature",
       "properties": {
-        "building_code": "BW",
-        "building_area": "s"
+        "code": "BW",
+        "area": "s",
+        "type": "r"
       },
       "geometry": {
         "type": "Polygon",
