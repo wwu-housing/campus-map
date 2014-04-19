@@ -238,7 +238,8 @@
       "properties": {
         "code": "EN",
         "area": "n",
-        "type": "r"
+        "type": "r",
+        "name": "Edens North"
       },
       "geometry": {
         "type": "Polygon",
@@ -281,7 +282,8 @@
       "properties": {
         "code": "EH",
         "area": "n",
-        "type": "r"
+        "type": "r",
+        "name": "Edens Hall"
       },
       "geometry": {
         "type": "Polygon",
@@ -364,7 +366,8 @@
       "properties": {
         "code": "BT",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Buchanan Towers"
       },
       "geometry": {
         "type": "Polygon",
@@ -459,7 +462,8 @@
       "properties": {
         "code": "BQ",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Buchanan Towers East"
       },
       "geometry": {
         "type": "Polygon",
@@ -630,7 +634,8 @@
       "properties": {
         "code": "HI",
         "area": "r",
-        "type": "r"
+        "type": "r",
+        "name": "Highland Hall"
       },
       "geometry": {
         "type": "Polygon",
@@ -761,7 +766,8 @@
       "properties": {
         "code": "RC",
         "area": "r",
-        "type": "r"
+        "type": "r",
+        "name": "Ridgeway Commons"
       },
       "geometry": {
         "type": "Polygon",
@@ -876,7 +882,8 @@
       "properties": {
         "code": "RG",
         "area": "r",
-        "type": "r"
+        "type": "r",
+        "name": "Ridgeway Gamma"
       },
       "geometry": {
         "type": "Polygon",
@@ -1039,7 +1046,8 @@
       "properties": {
         "code": "RS",
         "area": "r",
-        "type": "r"
+        "type": "r",
+        "name": "Ridgeway Sigma"
       },
       "geometry": {
         "type": "Polygon",
@@ -1138,7 +1146,8 @@
       "properties": {
         "code": "RA",
         "area": "r",
-        "type": "r"
+        "type": "r",
+        "name": "Ridgeway Alpha"
       },
       "geometry": {
         "type": "Polygon",
@@ -1221,7 +1230,8 @@
       "properties": {
         "code": "RO",
         "area": "r",
-        "type": "r"
+        "type": "r",
+        "name": "Ridgeway Omega"
       },
       "geometry": {
         "type": "Polygon",
@@ -1312,7 +1322,8 @@
       "properties": {
         "code": "RD",
         "area": "r",
-        "type": "r"
+        "type": "r",
+        "name": "Ridgeway Delta"
       },
       "geometry": {
         "type": "Polygon",
@@ -1395,7 +1406,8 @@
       "properties": {
         "code": "RB",
         "area": "r",
-        "type": "r"
+        "type": "r",
+        "name": "Ridgeway Beta"
       },
       "geometry": {
         "type": "Polygon",
@@ -1550,7 +1562,8 @@
       "properties": {
         "code": "RK",
         "area": "r",
-        "type": "r"
+        "type": "r",
+        "name": "Ridgeway Kappa"
       },
       "geometry": {
         "type": "Polygon",
@@ -1702,7 +1715,8 @@
         "code": "VC",
         "area": "n",
         "buildingSection": "",
-        "type": "r"
+        "type": "r",
+        "name": "Viking Commons"
       },
       "geometry": {
         "type": "Polygon",
@@ -1769,7 +1783,8 @@
       "properties": {
         "code": "FC",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Commons"
       },
       "geometry": {
         "type": "Polygon",
@@ -1841,7 +1856,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 1,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -1877,7 +1893,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 2,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -1913,7 +1930,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 3,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -1949,7 +1967,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 4,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -1985,7 +2004,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 5,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 5"
       },
       "geometry": {
         "type": "Polygon",
@@ -2021,7 +2041,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 6,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 6"
       },
       "geometry": {
         "type": "Polygon",
@@ -2057,7 +2078,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 7,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 7"
       },
       "geometry": {
         "type": "Polygon",
@@ -2093,7 +2115,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 8,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2129,7 +2152,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 9,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 9"
       },
       "geometry": {
         "type": "Polygon",
@@ -2165,7 +2189,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 10,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 10"
       },
       "geometry": {
         "type": "Polygon",
@@ -2201,7 +2226,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 11,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 11"
       },
       "geometry": {
         "type": "Polygon",
@@ -2237,7 +2263,8 @@
         "code": "FX",
         "area": "s",
         "buildingSection": 12,
-        "type": "r"
+        "type": "r",
+        "name": "Fairhaven Stack 12"
       },
       "geometry": {
         "type": "Polygon",
@@ -2272,7 +2299,8 @@
       "properties": {
         "code": "BW",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Birnam Wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -2351,7 +2379,8 @@
       "properties": {
         "code": "BW",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Birnam Wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -2418,7 +2447,8 @@
       "properties": {
         "code": "BW",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Birnam Wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -2465,7 +2495,8 @@
       "properties": {
         "code": "BW",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Birnam Wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -2544,7 +2575,8 @@
       "properties": {
         "code": "BW",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Birnam Wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -2595,7 +2627,8 @@
       "properties": {
         "code": "BW",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Birnam Wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -2678,7 +2711,8 @@
       "properties": {
         "code": "BW",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Birnam Wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -2745,7 +2779,8 @@
       "properties": {
         "code": "BW",
         "area": "s",
-        "type": "r"
+        "type": "r",
+        "name": "Birnam Wood"
       },
       "geometry": {
         "type": "Polygon",
