@@ -6817,6 +6817,70 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ATM",
+        "name": "Outside the SW corner of Miller Hall",
+        "area": "",
+        "type": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48542696237564,
+          48.73638183067232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ATM",
+        "name": "Viking Union 6th floor",
+        "area": "",
+        "type": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48630672693253,
+          48.73898924332337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ATM",
+        "name": "Old Main (fee)",
+        "area": "",
+        "type": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48438894748686,
+          48.737356530606135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ATM",
+        "name": "Wade King Rec Center (fee)",
+        "area": "",
+        "type": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48846858739851,
+          48.731640733899525
+        ]
+      }
     }
   ]
 }
