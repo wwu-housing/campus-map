@@ -6821,7 +6821,7 @@
     {
       "type": "Feature",
       "properties": {
-        "code": "ATM",
+        "code": "ATM1",
         "name": "Outside the SW corner of Miller Hall",
         "area": "",
         "type": "atm"
@@ -6837,7 +6837,7 @@
     {
       "type": "Feature",
       "properties": {
-        "code": "ATM",
+        "code": "ATM2",
         "name": "Viking Union 6th floor",
         "area": "",
         "type": "atm"
@@ -6853,7 +6853,7 @@
     {
       "type": "Feature",
       "properties": {
-        "code": "ATM",
+        "code": "ATM3",
         "name": "Old Main (fee)",
         "area": "",
         "type": "atm"
@@ -6869,7 +6869,7 @@
     {
       "type": "Feature",
       "properties": {
-        "code": "ATM",
+        "code": "ATM4",
         "name": "Wade King Rec Center (fee)",
         "area": "",
         "type": "atm"
@@ -6879,6 +6879,117 @@
         "coordinates": [
           -122.48846858739851,
           48.731640733899525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FVC",
+        "name": "Viking Commons",
+        "area": "",
+        "type": "f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48547524213791,
+          48.738966247737785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FVUC",
+        "name": "VU Café",
+        "type": "f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4864274263382,
+          48.738830042899906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FVUM",
+        "name": "VU Market",
+        "area": "",
+        "type": "f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48637646436693,
+          48.73895740327901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FVUS",
+        "name": "Subway",
+        "area": "",
+        "type": "f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48643279075623,
+          48.73892556321447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FVUPE",
+        "name": "Panda Express",
+        "area": "",
+        "type": "f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48638719320297,
+          48.7389007987059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FAPOD",
+        "name": "Atrium POD",
+        "area": "",
+        "type": "f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48584270477294,
+          48.733669907283556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FASB",
+        "name": "Atrium Starbucks",
+        "area": "",
+        "type": "f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48583734035492,
+          48.733737132201625
         ]
       }
     }
